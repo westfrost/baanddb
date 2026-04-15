@@ -13,5 +13,20 @@
     "cylinder": "1",
     "pres": "30%",
     "bemaerkning": ""
+  },
+  {
+    "id": 2,
+    "baandtype": "2M8UOV5W-NA.3",
+    "medbringertype": "T20W",
+    "laengde": 100,
+    "antal": 3,
+    "kontakt": "Y2",
+    "current": "50",
+    "welding": "30",
+    "cool": "120",
+    "squeeze": "2.5",
+    "cylinder": "1",
+    "pres": "30",
+    "bemaerkning": ""
   }
 ]
