@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "baandtype": "2M24AG",
+    "medbringertype": "T60AG",
+    "laengde": 345,
+    "antal": 1,
+    "kontakt": "Y1",
+    "current": "40A",
+    "welding": "45,0s",
+    "cool": "150,s",
+    "squeeze": "6,0s",
+    "cylinder": "1",
+    "pres": "30%",
+    "bemaerkning": ""
+  }
+]
